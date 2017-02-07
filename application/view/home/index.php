@@ -14,6 +14,7 @@
                 <ul>
                     <li>if the ID is divisible by 3, show the word "fizz" instead</li>
                     <li>if the ID is divisible by 5, show the word "buzz" instead</li>
+                    <li>if the ID is divisible by 3 and 5, show the word "fizzbuzz" instead</li>
                 </ul>
             </ul>
             (the way the songs are shown doesn't matter)
