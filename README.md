@@ -1,5 +1,16 @@
 # mini-interview - Simple project for PHP interviews
 
+It aims to test the following interview candidate's skills :
+
+* MVC architecture knowledge
+* Documentation search
+
+Problems that the candidate has to solve :
+
+* "add and delete songs" feature is bugged
+* create a new page
+* fizz buzz
+
 Description of the base project below :
 
 ________________________
