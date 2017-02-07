@@ -5,6 +5,7 @@
     <h2>Problems to solve :</h2>
     <ul>
         <li>Solve the bug that blocks songs addition or deletion</li>
+        <li>Prevent the songs list from XSS vulnerabilities</li>
         <li>
             Add a new subpage named "FizzBuzz" :
             <ul>
