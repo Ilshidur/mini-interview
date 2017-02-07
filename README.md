@@ -12,11 +12,13 @@ Problems that the candidate has to solve :
 * create a new page
 * fizz buzz
 
+Expeced Fizz Buzz result :
+
+![Fizz Buzz](Solution.png)
+
 Description of the base project below :
 
 ________________________
-
-![MINI - A naked barebone PHP application](_install/mini-logo.png)
 
 # MINI
 
