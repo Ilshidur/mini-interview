@@ -50,7 +50,7 @@ class Model
         // useful for debugging: you can see the SQL behind above construction by using:
         // echo '[ PDO DEBUG ]: ' . Helper::debugPDO($sql, $parameters);  exit();
 
-        $query->fetch($parameters);
+        $query->execute($parameters);
     }
 
     /**
@@ -68,7 +68,7 @@ class Model
         // useful for debugging: you can see the SQL behind above construction by using:
         // echo '[ PDO DEBUG ]: ' . Helper::debugPDO($sql, $parameters);  exit();
 
-        $query->fetch($parameters);
+        $query->execute($parameters);
     }
 
     /**
