@@ -8,14 +8,17 @@ It aims to test the following interview candidate's skills :
 Problems that the candidate has to solve :
 
 * "add and delete songs" feature is bugged
+* prevent the songs list from XSS vulnerabilities
 * create a new page
 * fizz buzz
+
+Expeced Fizz Buzz result :
+
+![Fizz Buzz](Solution.png)
 
 Description of the base project below :
 
 ________________________
-
-![MINI - A naked barebone PHP application](_install/mini-logo.png)
 
 # MINI
 
