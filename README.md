@@ -16,7 +16,23 @@ Expeced Fizz Buzz result :
 
 ![Fizz Buzz](Solution.png)
 
-Description of the base project below :
+## Interview preparation : how to install ?
+
+In your `/var/www/` folder :
+```bash
+git clone https://github.com/Ilshidur/mini-interview.git mini-interview
+cd $_
+```
+
+Then follow the installation instructions here : [Ilshidur/mini-interview#installation](https://github.com/Ilshidur/mini-interview#installation). Then :
+
+```bash
+rm -rf .git
+```
+
+This will remove the "solution" branch and every commits history.
+
+**Description of the base project below :**
 
 ________________________
 
