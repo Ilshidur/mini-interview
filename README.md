@@ -1,5 +1,8 @@
 # mini-interview - Simple project for PHP interviews
 
+> [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)<br/>
+This project is ENTIRELY achieved, but not actively maintained. Feel free to submit pull requests !
+
 It aims to test the following interview candidate's skills :
 
 * MVC architecture knowledge
@@ -18,7 +21,7 @@ Expeced Fizz Buzz result :
 
 ## Interview preparation : how to install ?
 
-In your `/var/www/` folder :
+In your `/var/www/html/` folder :
 ```bash
 git clone https://github.com/Ilshidur/mini-interview.git mini-interview
 cd $_
