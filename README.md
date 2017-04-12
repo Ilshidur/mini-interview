@@ -1,5 +1,8 @@
 # mini-interview - Simple project for PHP interviews
 
+> [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)<br/>
+This project is ENTIRELY achieved, but not actively maintained. Feel free to submit pull requests !
+
 It aims to test the following interview candidate's skills :
 
 * MVC architecture knowledge
